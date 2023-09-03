@@ -1,3 +1,5 @@
 *.zip
 *-workspace
 archive
+project/db-data/
+*App
