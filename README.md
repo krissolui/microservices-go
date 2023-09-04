@@ -14,3 +14,6 @@ Microservices written in Go following the Udemy course.
     -   MongoDB
 -   mail service
     -   mailhog
+-   listener service
+    -   RabbitMQ
+        > Broker will push message to RabbitMQ instead of calling the logger service directly
