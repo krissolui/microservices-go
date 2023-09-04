@@ -8,11 +8,13 @@ Microservices written in Go following the Udemy course.
 
 -   front end
 -   broker
+    -   Support sending gRPC requests to logger service
 -   authentication service
     -   Postgres
 -   logger service
     -   MongoDB
     -   Accept RPC requests
+    -   Accept gRPC requests
 -   mail service
     -   mailhog
 -   listener service
