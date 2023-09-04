@@ -12,6 +12,7 @@ Microservices written in Go following the Udemy course.
     -   Postgres
 -   logger service
     -   MongoDB
+    -   Accept RPC requests
 -   mail service
     -   mailhog
 -   listener service
