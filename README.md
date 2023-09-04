@@ -7,6 +7,7 @@ Microservices written in Go following the Udemy course.
 ### Content:
 
 -   front end
+    -   Run as a microservice, proxied through a Caddy server
 -   broker
     -   Support sending RPC requests to logger service
     -   Support sending gRPC requests to logger service
